@@ -1,0 +1,7 @@
+{"level":"info","message":"New addition operation requested: 5 addition 3","service":"calculation-service"}
+{"level":"info","message":"New division operation requested: 5 division 2","service":"calculator-microservice"}
+{"level":"error","message":"Error: Number 2 incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"Error: Number 1 incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"Error: Number 1 incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 10 addition 10","service":"calculator-microservice"}
+{"level":"info","message":"New addition operation requested: 1 addition 1","service":"calculator-microservice"}
